@@ -2,6 +2,8 @@
 
 프로젝트 모음 → **[Gugaeun/Portfolio](https://github.com/Gugaeun/Portfolio)**
 
+> 🚧 일부 프로젝트는 현재도 수정·보완 중입니다.
+
 ### 👤 개인 프로젝트
 
 | 프로젝트 | 소개 | 주요 기술 |
