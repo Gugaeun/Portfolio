@@ -1,6 +1,6 @@
 # 🗂 구가은 포트폴리오
 
-개인·팀 프로젝트 5개를 한곳에 모았습니다. 각 프로젝트의 상세 내용은 해당 저장소 README에 있습니다.
+개인·팀 프로젝트 6개를 한곳에 모았습니다. 각 프로젝트의 상세 내용은 해당 저장소 README에 있습니다.
 
 | 프로젝트 | 한 줄 소개 | 주요 기술 | 링크 |
 |---|---|---|---|
@@ -9,6 +9,7 @@
 | 🎮 **mini-game-hub (ARCADIA)** | 직접 만든 미니게임 10개를 모은 아케이드 웹사이트. 취향 기반 게임 추천, GitHub Pages 배포 | `React 18` `Vite` `React Router` `Canvas` `WebAudio` `Cloudflare Worker` `GitHub Pages` | [Repo](https://github.com/Gugaeun/mini-game-hub) · [Demo](https://gugaeun.github.io/mini-game-hub/) |
 | 🎬 **Korea_Movie_Review** | 한국어 영화 리뷰 26,768건(214편)으로 영화를 추천하는 서비스(팀 프로젝트). 리뷰 유사도·영화 정보·보정 평점을 합친 콘텐츠 기반 추천 | `Python` `FastAPI` `scikit-learn(TF-IDF)` `pandas` `scipy` `React` `Docker` `pytest` | [Repo](https://github.com/Gugaeun/Korea_Movie_Review) |
 | 🍚 **golmok-hankki (골목 한끼)** | 중곡·군자·화양·능동 음식점을 모아 검색과 지도로 보여주는 서비스. 인허가 자료와 구청 모범음식점 크롤링 데이터를 합침 | `Python` `Flask` `SQLite` `Requests` `BeautifulSoup` `Naver Maps API` `Naver Geocoding API` | [Repo](https://github.com/Gugaeun/golmok-hankki) |
+| 👁 **Vision_ai** | Vision AI 실습 겸 미니 프로젝트 8종 모음. 볼펜 탐지, 진열대 이상 탐지(Grounding DINO·YOLO-World·YOLOE 3종 비교), 자세 분류→이모지 변환, 군중 인구통계, 고랑 안 잡초 탐지, PatchCore 강건성 실험 | `Python` `YOLOv8` `YOLO-Pose` `Grounding DINO` `YOLO-World` `YOLOE` `XGBoost` `DeepFace` `PatchCore` | [Repo](https://github.com/Gugaeun/Vision_ai) |
 
 ## 프로젝트 하이라이트
 
@@ -16,6 +17,7 @@
 - **PM25**: persistence 대비 LSTM·1D-CNN(+기상 변수)이 오차를 줄이는지 분기별 재검증하고, 고농도 구간 예측 실패와 개선 시도까지 기록
 - **mini-game-hub**: 게임 규칙을 화면과 분리한 엔진(`*Engine.js`)으로 만들어 시뮬레이션 테스트 가능
 - **Korea_Movie_Review**: 추천 품질 평가 보고서와 Docker 배포 문서 포함
+- **Vision_ai**: 같은 사진·프롬프트로 세 가지 open-vocabulary 탐지 모델을 비교한 문서(`docs/comparison.md`)와 폴더별 README 포함
 - **golmok-hankki**: 이름·주소·거리(18m 이내)로 같은 음식점을 판별하는 중복 제거 기준 설계
 
 ## Contact
