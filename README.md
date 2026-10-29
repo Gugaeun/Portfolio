@@ -20,6 +20,42 @@
 | 🎬 **Korea_Movie_Review** | 한국어 영화 리뷰 26,768건(214편)으로 영화를 추천하는 서비스. 리뷰 유사도·영화 정보·보정 평점을 합친 콘텐츠 기반 추천 | `Python` `FastAPI` `scikit-learn(TF-IDF)` `pandas` `scipy` `React` `Docker` `pytest` | [Repo](https://github.com/Gugaeun/Korea_Movie_Review) |
 | 🌿 **Korean_Travel (산책 ON)** | 지역별 산책 코스를 지도로 보여주고 기상청 예보·특보를 함께 확인하는 여행 웹 | `HTML` `CSS` `JavaScript` `Kakao Maps API` `Python(http.server)` `기상청 단기·중기예보 API` | [Repo](https://github.com/Gugaeun/Korean_Travel) |
 
+## 🖼 미리보기
+
+### 👤 개인 프로젝트
+
+**🎟️ [Ticketing](https://github.com/Gugaeun/Ticketing)** — 예매 화면 · 공연 상세·회차 선택 · API 문서(Swagger)
+
+<p>
+  <img src="images/ticketing-main.png" width="32%" alt="Ticketing 메인">
+  <img src="images/ticketing-detail.png" width="32%" alt="Ticketing 공연 상세와 예매">
+  <img src="images/ticketing-swagger.png" width="32%" alt="Ticketing Swagger">
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>🌫 <a href="https://github.com/Gugaeun/PM25">PM25</a></b> — 실시간 24시간 예측 화면<br><img src="images/pm25-forecast.png" alt="PM25 실시간 예측"></td>
+    <td width="50%" valign="top"><b>🎮 <a href="https://github.com/Gugaeun/mini-game-hub">mini-game-hub</a></b> — ARCADIA 메인<br><img src="images/mini-game-hub.png" alt="mini-game-hub 메인"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>👁 <a href="https://github.com/Gugaeun/Vision_ai">Vision_ai</a></b> — 진열대 이상 탐지(곰팡이 채소)<br><img src="images/vision-ai-detect.png" alt="Vision_ai 탐지 결과"></td>
+    <td width="50%" valign="top"><b>🍚 <a href="https://github.com/Gugaeun/golmok-hankki">golmok-hankki</a></b> — 음식점 검색·지도<br><img src="images/golmok-hankki.png" alt="golmok-hankki 화면"></td>
+  </tr>
+</table>
+
+### 👥 팀 프로젝트
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>🚗 <a href="https://github.com/Gugaeun/LPR_System">LPR_System</a></b> — 번호판 인식 앱 화면<br><img src="images/lpr-system.png" alt="LPR_System 화면"></td>
+    <td width="50%" valign="top"><b>🌿 <a href="https://github.com/Gugaeun/Korean_Travel">Korean_Travel</a></b> — 산책 ON 메인<br><img src="images/korean-travel.png" alt="Korean_Travel 메인"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>🎬 <a href="https://github.com/Gugaeun/Korea_Movie_Review">Korea_Movie_Review</a></b> — 추천 API(Swagger) 호출 화면<br><img src="images/korea-movie-review-api.png" alt="Korea_Movie_Review API"></td>
+    <td></td>
+  </tr>
+</table>
+
 ## 프로젝트 하이라이트
 
 - **Ticketing**: 동시성 문제를 일부러 재현하고 락 방식(none / pessimistic / optimistic)을 바꿔 가며 *문제 → 원인 → 해결 → 수치*로 정리. Oracle 기준 k6 부하 테스트와 조회 최적화 기록 포함
