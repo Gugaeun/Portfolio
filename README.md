@@ -34,11 +34,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top"><b>🎮 <a href="https://github.com/Gugaeun/mini-game-hub">mini-game-hub</a></b> — 취향 추천 · 게임 플레이 화면<br><img src="images/mini-game-hub.png" alt="mini-game-hub 추천·플레이 화면"></td>
-    <td width="50%" valign="top"><b>👁 <a href="https://github.com/Gugaeun/Vision_ai">Vision_ai</a></b> — 진열대 이상 탐지(곰팡이 채소)<br><img src="images/vision-ai-detect.png" alt="Vision_ai 탐지 결과"></td>
+    <td width="50%" valign="top"><b>🛰 <a href="https://github.com/Gugaeun/EuroSAT-Classification">EuroSAT-Classification</a></b> — PyTorch CNN 예측 샘플<br><img src="images/eurosat.png" alt="EuroSAT 예측 샘플"></td>
   </tr>
   <tr>
+    <td width="50%" valign="top"><b>👁 <a href="https://github.com/Gugaeun/Vision_ai">Vision_ai</a></b> — 진열대 이상 탐지(곰팡이 채소)<br><img src="images/vision-ai-detect.png" alt="Vision_ai 탐지 결과"></td>
     <td width="50%" valign="top"><b>🍚 <a href="https://github.com/Gugaeun/golmok-hankki">golmok-hankki</a></b> — 음식점 검색·지도<br><img src="images/golmok-hankki.png" alt="golmok-hankki 화면"></td>
-    <td width="50%" valign="top"><b>🛰 <a href="https://github.com/Gugaeun/EuroSAT-Classification">EuroSAT-Classification</a></b> — PyTorch CNN 예측 샘플<br><img src="images/eurosat.png" alt="EuroSAT 예측 샘플"></td>
   </tr>
 </table>
 
