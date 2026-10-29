@@ -60,9 +60,7 @@
 <table>
   <tr>
     <td colspan="2" valign="middle"><b>🎬 <a href="https://github.com/Gugaeun/Korea_Movie_Review">Korea_Movie_Review</a></b> — 홈 · 취향 추천(영화 선택) · 추천 결과와 근거<br>
-      <img src="images/korea-movie-review-home.png" width="32%" alt="Korea_Movie_Review 홈">
-      <img src="images/korea-movie-review-pick.png" width="32%" alt="Korea_Movie_Review 취향 추천">
-      <img src="images/korea-movie-review-result.png" width="32%" alt="Korea_Movie_Review 추천 결과">
+      <img src="images/korea-movie-review.png" alt="Korea_Movie_Review 홈·취향 추천·추천 결과">
     </td>
   </tr>
 </table>
