@@ -49,15 +49,15 @@
     <td width="50%" valign="middle"><b>🚗 <a href="https://github.com/Gugaeun/LPR_System">LPR_System</a></b> — 번호판 인식 앱 화면<br><img src="images/lpr-system.png" alt="LPR_System 화면"></td>
     <td width="50%" valign="middle"><b>🌿 <a href="https://github.com/Gugaeun/Korean_Travel">Korean_Travel</a></b> — 산책 ON 메인<br><img src="images/korean-travel.png" alt="Korean_Travel 메인"></td>
   </tr>
+  <tr>
+    <td colspan="2" valign="middle"><b>🎬 <a href="https://github.com/Gugaeun/Korea_Movie_Review">Korea_Movie_Review</a></b> — 홈 · 취향 추천(영화 선택) · 추천 결과와 근거<br>
+      <img src="images/korea-movie-review-home.png" width="32%" alt="Korea_Movie_Review 홈">
+      <img src="images/korea-movie-review-pick.png" width="32%" alt="Korea_Movie_Review 취향 추천">
+      <img src="images/korea-movie-review-result.png" width="32%" alt="Korea_Movie_Review 추천 결과">
+    </td>
+  </tr>
 </table>
 
-**🎬 [Korea_Movie_Review](https://github.com/Gugaeun/Korea_Movie_Review)** — 홈 · 취향 추천(영화 선택) · 추천 결과와 근거
-
-<p>
-  <img src="images/korea-movie-review-home.png" width="32%" alt="Korea_Movie_Review 홈">
-  <img src="images/korea-movie-review-pick.png" width="32%" alt="Korea_Movie_Review 취향 추천">
-  <img src="images/korea-movie-review-result.png" width="32%" alt="Korea_Movie_Review 추천 결과">
-</p>
 
 ## 프로젝트 하이라이트
 
