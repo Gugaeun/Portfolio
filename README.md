@@ -32,10 +32,16 @@
     <td width="50%" valign="middle"><b>🎟️ <a href="https://github.com/Gugaeun/Ticketing">Ticketing</a></b> — 동시성 시연 결과 · 예매 · 관리자 대시보드<br><img src="images/ticketing.png" alt="Ticketing 동시성 시연 결과·예매·대시보드"></td>
     <td width="50%" valign="middle"><b>🎮 <a href="https://github.com/Gugaeun/mini-game-hub">mini-game-hub</a></b> — 취향 추천 · 게임 플레이 화면<br><img src="images/mini-game-hub.png" alt="mini-game-hub 추천·플레이 화면"></td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="middle"><b>🌫 <a href="https://github.com/Gugaeun/PM25">PM25</a></b> — 실시간 24시간 예측 화면<br><img src="images/pm25-forecast.png" alt="PM25 실시간 예측"></td>
     <td width="50%" valign="middle"><b>🛰 <a href="https://github.com/Gugaeun/EuroSAT-Classification">EuroSAT-Classification</a></b> — PyTorch CNN 예측 샘플<br><img src="images/eurosat.png" alt="EuroSAT 예측 샘플"></td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="middle"><b>👁 <a href="https://github.com/Gugaeun/Vision_ai">Vision_ai</a></b> — 진열대 이상 탐지(곰팡이 채소)<br><img src="images/vision-ai-detect.png" alt="Vision_ai 탐지 결과"></td>
     <td width="50%" valign="middle"><b>🍚 <a href="https://github.com/Gugaeun/golmok-hankki">golmok-hankki</a></b> — 음식점 검색·지도<br><img src="images/golmok-hankki.png" alt="golmok-hankki 화면"></td>
@@ -49,6 +55,9 @@
     <td width="50%" valign="middle"><b>🚗 <a href="https://github.com/Gugaeun/LPR_System">LPR_System</a></b> — 번호판 인식 앱 화면<br><img src="images/lpr-system.png" alt="LPR_System 화면"></td>
     <td width="50%" valign="middle"><b>🌿 <a href="https://github.com/Gugaeun/Korean_Travel">Korean_Travel</a></b> — 산책 ON 메인<br><img src="images/korean-travel.png" alt="Korean_Travel 메인"></td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td colspan="2" valign="middle"><b>🎬 <a href="https://github.com/Gugaeun/Korea_Movie_Review">Korea_Movie_Review</a></b> — 홈 · 취향 추천(영화 선택) · 추천 결과와 근거<br>
       <img src="images/korea-movie-review-home.png" width="32%" alt="Korea_Movie_Review 홈">
