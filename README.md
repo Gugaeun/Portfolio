@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td width="50%" valign="top"><b>🌫 <a href="https://github.com/Gugaeun/PM25">PM25</a></b> — 실시간 24시간 예측 화면<br><img src="images/pm25-forecast.png" alt="PM25 실시간 예측"></td>
-    <td width="50%" valign="top"><b>🎮 <a href="https://github.com/Gugaeun/mini-game-hub">mini-game-hub</a></b> — ARCADIA 메인<br><img src="images/mini-game-hub.png" alt="mini-game-hub 메인"></td>
+    <td width="50%" valign="top"><b>🎮 <a href="https://github.com/Gugaeun/mini-game-hub">mini-game-hub</a></b> — 취향 추천 · 게임 플레이 화면<br><img src="images/mini-game-hub.png" alt="mini-game-hub 추천·플레이 화면"></td>
   </tr>
   <tr>
     <td width="50%" valign="top"><b>👁 <a href="https://github.com/Gugaeun/Vision_ai">Vision_ai</a></b> — 진열대 이상 탐지(곰팡이 채소)<br><img src="images/vision-ai-detect.png" alt="Vision_ai 탐지 결과"></td>
